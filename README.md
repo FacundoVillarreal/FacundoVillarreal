@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @FacundoVillarreal
 - 👀 Estoy interesado en el desarrollo front end y back end 
-- 🌱 Actualmente estoy aprendiendo Angular y Typescript, proximente me gustaria ampliar mis horizontes en React y React Native
+- 🌱 Actualmente estoy aprendiendo Angular y TypeScript, proximente me gustaria ampliar mis horizontes en React y React Native
 
 - 📫 Como llegar a mi www.linkedin.com/in/favillarreal
 
