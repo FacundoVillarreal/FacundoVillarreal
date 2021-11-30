@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @FacundoVillarreal
 - 👀 Estoy interesado en el desarrollo front end y back end 
-- 🌱 Actualmente estoy aprendiendo  MongoDB,Express,React,NodeJs
+- 🌱 Actualmente estoy aprendiendo ReactJS
 
 - 📫 Como llegar a mi www.linkedin.com/in/favillarreal
 
